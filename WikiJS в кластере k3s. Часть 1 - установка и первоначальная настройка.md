@@ -17,7 +17,8 @@ Wiki.js - это wiki-движок, работающий на Node.js и нап�
   * Создание Ingress.
 
 3. Полезные ссылки
-  * [Официальный сайт Wiki.js](https://github.com/Requarks/wiki)
+  * [Официальный сайт Wiki.js](https://js.wiki/)
+  * [Wiki.js на GitHub](https://github.com/Requarks/wiki)
   * [Установка PostgreSQL в кластере k3s](https://portworx.com/blog/run-ha-postgresql-rancher-kubernetes-engine/)
   * [Деплой Wiki.js в Kubernetes](https://medium.com/swlh/deploy-wiki-js-on-kubernetes-686cec78b29)
   * [Использование Ingress в Kubernetes (Официальный сайт)](https://kubernetes.io/docs/concepts/services-networking/ingress/)
@@ -618,4 +619,4 @@ Loading configuration from /wiki/config.yml... OK
 2022-01-11T12:19:18.088Z [JOB] info: Using database driver pg for postgres [ OK ]
 2022-01-11T12:19:18.146Z [JOB] info: Rebuilding page tree: [ COMPLETED ]
 ```
-[В следующий раз рассмотрим процесс бэкапа и восстановления из него.](https://github.com/rs1977rs/Manuals/blob/master/WikiJS%20%D0%B2%20%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B5%20k3s.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%202%20-%20%D0%B1%D1%8D%D0%BA%D0%B0%D0%BF%20%D0%B8%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.md)
+[В следующий раз рассмотрим процесс бэкапа и восстановления из него.](http://gitea.redstar.name/RedStar/Manuals/src/branch/master/Kubernetes/WikiJS%20%d0%b2%20%d0%ba%d0%bb%d0%b0%d1%81%d1%82%d0%b5%d1%80%d0%b5%20k3s.%20%d0%a7%d0%b0%d1%81%d1%82%d1%8c%202%20-%20%d0%b1%d1%8d%d0%ba%d0%b0%d0%bf%20%d0%b8%20%d0%b2%d0%be%d1%81%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5.md)
